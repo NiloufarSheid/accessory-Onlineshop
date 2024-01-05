@@ -1,0 +1,294 @@
+
+.container{
+  width: 100%;
+}
+#navbarNavAltMarkup{
+  position: sticky;
+  top: 0;
+}
+
+.nav-link{
+  font-size: 10px;
+  font-weight: bold;
+
+  color: #565656;
+}
+.navbar-nav {
+ cursor: pointer;
+  line-height: 0.5rem;
+  
+ 
+}
+.tamas{
+  float: left;
+}
+
+
+.bold
+{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.icon{
+   opacity: 0.5;
+}
+.vitrin{
+ 
+  width: 100%;
+position: relative;
+}
+.vitrins{
+  margin-top: 20px;
+}
+.vitrins img{
+  border-radius: 10px;
+}
+
+.col-lg-1 img{
+border-radius: 10px;
+}
+.showtitle{
+font-size: 35px;
+position: absolute;
+right:30px;
+bottom: 100px;
+color: #ec5569;
+font-weight: 600;
+}
+.showsub{
+font-size: 30px;
+position: absolute; 
+right: 60px;
+bottom: 70px;
+font-weight: 200;
+color: #888;
+}
+
+.suggest{
+  padding-right: 10px;
+  border: 1px solid #e1e1e1 ;
+  height: 100%;
+}
+.span{
+  border-bottom: 1px solid #e1e1e1;
+}
+.suggest img{
+  width: 100%;
+  height: 50%;
+  
+}
+.tarhe-tala{
+  font-size: 15px;
+}
+.carousel slide{
+  width: 100%;
+}
+.favorites{
+  color: #b81929;
+}
+
+.box2{
+   width: 100%;
+  
+  border: 1px solid #e1e1e1 ;
+  margin-top: 10px;
+}
+.enter{
+  color: black;
+}
+.add-to-card{
+  color: black;
+}
+.saatchi{
+    position: relative;
+    
+   
+    
+  }
+  .right-slide{
+    
+    
+    border: 1px solid #e1e1e1 ;
+    margin:0 auto;
+    
+    
+   
+  }
+  .tarhe-tala{
+    font: 15px;
+  }
+
+  .button{
+align-items: center;
+display: block;
+position: absolute;
+width: 200px;
+text-align: center;
+font-size: 1rem;
+font-weight: 200;
+background-color: #f88f9c;
+color: #fff;
+
+left: 0;
+right: 0;
+margin: 0 16px;
+border-radius: 20px;
+box-shadow: 2px 4px 0 1px #ec5569;
+padding: 10px 0;
+  }
+
+  
+  .widget-head{
+    text-align: center;
+    margin:20px;
+  }
+  .sub-title{
+    font-size: 32px;
+    font-weight: 600;
+    color: #f03800;
+  }
+   
+  .col> img{border-radius: 10px;}
+
+  .item{
+  width: 100%;
+  height: 200px;
+  border: 1px solid #e1e1e1 ;
+  margin:0 auto;
+
+ }
+ .tazeha{
+  border-bottom: 1px solid #eaeaea;
+ }
+ .tazeha-header{
+ font-size: 1rem;
+  text-align: right;
+  overflow: hidden;
+  color: #5f5f5f;
+  font-weight:400;
+ }
+ .tazeha h4{
+  color: #444;
+font-size:18px;
+font-weight: 500;
+ }
+ .price-header{
+  color: #10cf2b;
+ }
+ .brands{
+ 
+  border-bottom: 1px solid #eaeaea;
+ }
+ .brands-header{
+  font-size: 14px;
+  font-weight: 400;
+  color: #3c4858;
+ }
+ .brands h4{
+  color: #444;
+font-size:18px;
+font-weight: 500;
+ }
+ .model-header{
+  font-size: 10px;
+  color: #5f5f5f;
+  font-weight: 100;
+ }
+
+
+ /*.info-majale{
+  position: absolute;
+  bottom: 7px;
+  color: #fff;
+  text-align: right;
+  box-sizing: border-box;
+  z-index: 11;
+  padding: 2rem 2rem .4rem;
+}*/
+
+.gold{
+  width: 100%;
+  height: 350px;
+  border: 1px solid #e1e1e1 ;
+  margin:0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+ 
+}
+.mod{
+  width: 100%;
+ height: 700px;
+  border-bottom: 1px solid #e1e1e1 ;
+  margin:0 auto;
+ 
+}
+.mod-magazine{
+  border-bottom: 1px solid #eaeaea;
+  margin-bottom: 20px;
+
+}
+#read-more{
+  display: block;
+  background: #fff;
+  width: 156px;
+  font-size: 1.5rem;
+  margin: 20px auto;
+  line-height: 40px;
+  border-radius: 121px;
+  border: 2px solid #cacaca;
+}
+.mod-magazine h4{
+ 
+  text-align: center;
+  font-weight: 300;
+}
+.modd img{
+  border-radius: 10px;
+}
+
+a{
+  text-decoration: none;
+}
+.selling{
+
+    
+    height: 300px;
+    border: 1px solid #e1e1e1 ;
+    margin:0 auto;
+  
+}
+.best-seller{
+  border-bottom: 1px solid #eaeaea;
+}
+.blacklinks a{
+  color: #5a5a5a;
+}
+.end{
+  color: #313131;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.niloo{
+  color: #3ecadf;
+}
+.desktop-footer{
+  margin-top: 20px;
+  background:#eaeaea;
+  border-top: 2px solid #dcdcdc;
+ 
+  
+}
+
+
+
+
+
+
+
+
+.row{
+  margin-left:0!important;
+  margin-right: 0!important;
+}
